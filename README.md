@@ -1,3 +1,5 @@
+# Frontend-Project
+
 # Single-Page CV
 
 This is a responsive single-page curriculum vitae (CV) template built using HTML and CSS. It provides a clean and organized layout to showcase your personal information, skills, education, and work experience.
